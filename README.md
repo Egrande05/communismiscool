@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>CommunismIsCool</title>
+    
 </head>
 <body>
 
