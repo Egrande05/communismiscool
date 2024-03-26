@@ -5,7 +5,7 @@
    
 </head>
 <body>
-    
+ background-img:url("hammer.jpg")   
     <header>
         <h1>Why Communism is a Good Ideology</h1>
     </header>
