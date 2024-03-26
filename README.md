@@ -44,6 +44,8 @@
             <h2>Conclusion</h2>
             <p>While communism has its critics and challenges, it offers a vision of a more equitable and just society. By prioritizing the needs of the many over the few, communism strives to create a world where everyone can live with dignity and equality. We hope this website has provided insights into why communism can be considered a good ideology.</p>
         </section>
+        <h2>Dirty Capitalist of the Week</h2>
+        <img src="david.jpg">
     </main>
 </body>
 </html>
